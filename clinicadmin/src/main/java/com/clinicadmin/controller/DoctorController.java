@@ -35,7 +35,7 @@ import jakarta.validation.Validator;
 
 @RestController
 @RequestMapping("/clinic-admin")
-@CrossOrigin(origins = { "http://localhost:3000", "http://localhost:3001", "http://127.0.0.1:5500" })
+//@CrossOrigin(origins = { "http://localhost:3000", "http://localhost:3001", "http://127.0.0.1:5500" })
 public class DoctorController {
 
 	@Autowired

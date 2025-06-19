@@ -19,6 +19,8 @@ import com.dermacare.notificationservice.util.ResBody;
 
 @RestController
 @RequestMapping("/notificationservice")
+//@CrossOrigin(origins = {"http://localhost:3000", "http://localhost:3001"})
+
 public class NotificationController {
 	
 	@Autowired

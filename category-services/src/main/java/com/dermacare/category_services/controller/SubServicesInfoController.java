@@ -17,6 +17,7 @@ import com.dermacare.category_services.util.Response;
 
 @RestController
 @RequestMapping("/v1/SubServicesInfo")
+//@CrossOrigin(origins = {"http://localhost:3000", "http://localhost:3001"})
 public class SubServicesInfoController {
 
 	@Autowired
