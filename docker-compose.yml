@@ -137,33 +137,33 @@ services:
     networks:
       - app-network
   
-  # clinic-admin-web:
-  #   build: ./clinic-admin-web
-  #   container_name: clinic-admin-web-container
-  #   ports:
-  #     - "3000:80"
-  #   environment:
-  #     - HOST=192.168.1.25
-  #     - PORT=3000
-  #   networks:
-  #     - app-network
-  #   depends_on:
-  #     - apigateway
-  #   restart: always
+  clinic-admin-web:
+    build: ./clinic-admin-web
+    container_name: clinic-admin-web-container
+    ports:
+      - "3000:80"
+    environment:
+      - HOST=43.204.22.89
+      - PORT=3000
+    networks:
+      - app-network
+    depends_on:
+      - apigateway
+    restart: always
   
-  # main-admin-web:
-  #   build: ./main-admin-web
-  #   container_name: main-admin-web-container
-  #   ports:
-  #     - "4000:80"
-  #   environment:
-  #     - HOST=192.168.1.17
-  #     - PORT=4000
-  #   networks:
-  #     - app-network
-  #   depends_on:
-  #     - apigateway
-  #   restart: always
+  main-admin-web:
+    build: ./main-admin-web
+    container_name: main-admin-web-container
+    ports:
+      - "4000:80"
+    environment:
+      - HOST=43.204.22.89
+      - PORT=4000
+    networks:
+      - app-network
+    depends_on:
+      - apigateway
+    restart: always
 
 
 
