@@ -1,1 +1,14 @@
 
+{
+  "type": "service_account",
+  "project_id": "dermacare-17f59",
+  "private_key_id": "5c57406316f13756042915846af99dbc805767f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpRB+d6qBh2W5Q\nSO3UE2c7Xk/Q/VYSt0d7QoFPDI77XcZSgH4IC7bygewlw8QdPY289iREZH6S9NDB\nkbVttrKCwCwLivPbE8h4VwC2kZrY2gG465MTlacp8zK5H6muimYYCcDobaGdKpMu\nbsTqg10mCwj+uuR2oCA99mHBChl1KnMisS1MvmzGJZ3SWGr1eotpxfQ1697hicD9\nTAHFNQQYL8JuQ23EBv9CZuHNu6d5yW2rkQH5Zhjl69SNFpvHj8443imy4YRNHAIV\nVh9yyjleZz5T+2llH0kT5qYOXN77SdaQdInKv9C9MJIriOpLorogEIs3/S9gg4qt\nbcRU9iwJAgMBAAECggEACMRhiudX6JMbP5rrolCp6l8UEVoS8PD75meHkHx7p9xM\nfOXIL3gmyKZlRTSNPgPK7ZVut119aF3yGHz7tQ07WDCy1KDYj8R8p/2GWsxrjT2L\nH31uNop0X95BavDc3Orl8bnN90vtFLBu4HhsPXlni7BqpDU3ZhC/scguccNOkI/Z\n5CQUcqFUJY33ygwBRDf8TVjabN6ovDCNgyFIXZ9uQ4hyfEF72qzDJ/Odl8lRot/L\nCJKKJX4RNl5fh7QQCumV9B0X2c1khDX7TOgMqx6yV8VeSBR7nHQNWh9mg0D1pZBP\nr/xeP5scIufyWEW7VtTq2YGNCdYJk2mE66RL5cpltQKBgQD24KhlCWSJ40ffEE3x\nt74ZtcMelLo2+tDlEONqgdr74MGmWjeDdHC3zVgiDcLr/TXbJLqImbGfU66UEaCP\nfce/fG/TnoS9SFDyEMUzoBMezge0O2XAqnZmJMBeUGga66EbxwsCzp9CpiiQVTqN\nYCOPkco3GZh7FoUo7Axsj7MHLwKBgQDx4rU3RLWgEfek9yGoZRup2xC2ivnMMG2D\n+WOttMlSpsVnCTeD5cjKpBMS1F4NzfVZjNJ/en9GyILAt9kMqJcEA6zmHaq/xMqa\nCO9Rx1EXMIWrQGxHQ4RUqEkoxji5Pu+6mp8DBrLvDHYqMBhf8oNxzxgyv5Vt77sk\ntOr48ZgyRwKBgQCXtkOFo5oHKoa2S7y6eGH4RrybhGZS9xt8ST6X6yj5dItMgVBw\nFhRWv3gTpUVN5JM+EnoXC+wdrz0vfQ2gYHlp8Tx/XYDRGSm1OB0Xtp1JZu9RENdc\n6ORNrPQSgXMYaAjfmxfnJ7azLIzs9ZM/4f64ca1E4xPTQGmgVj7kUAKCvQKBgHxm\nNP60ppgpRWyg8L1zKnQDxyeqd+fsrBYop3wJs1R/kpx4IAYEomydT3XqpGiDGQCy\nLPwE2vpjWuOUadtZxTj6TuyWK1+u7OelWrd7Q5gii0xUuJs5/Q+w8Nc4gqm61X3p\n0Yez5UiN5yOxUofd6H4anP5Ui5xbo6qwJPxc/AI3AoGBAL1D+BRInV/ZunocRVGj\n8TnAr9xseaMKrYk5/53wbME337MGWugBrkXcbUx31rzQg+dtkpu49udlfQ4sW7t7\nQlabzgAEBpGVCgNVcOFEIZUwNpM5u2aNi559SFXxyt+AW9l20ED5mDw6hyHAZWgS\n9ZVzKZ19DEZzG3oWxyjFmSVP\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@dermacare-17f59.iam.gserviceaccount.com",
+  "client_id": "112293746781764354349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40dermacare-17f59.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
